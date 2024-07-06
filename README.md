@@ -1,3 +1,1 @@
-# readme.md
-Inicio test
-Estado de proyecto: en construcción.
+<h1 align="center"> ReadMe Jade's portfolio </h1>
