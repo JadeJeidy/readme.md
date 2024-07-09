@@ -30,3 +30,6 @@
 
 *[Conclusión](#conclusión)
 
+Para ejecutar el sistema debes poner:
+
+```npm install react```
